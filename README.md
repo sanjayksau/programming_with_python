@@ -1,5 +1,5 @@
 # python_notes
-Python notes for Lectures taken at South Asian University
+Python notes/handouts for Lectures taken at South Asian University, Winter Sem, 2025
 
 1. LecNotes - 17012025.pdf
 2. LecNotes - 20012025.pdf
