@@ -20,5 +20,5 @@ A. Text Books
 2018
 
 B. Web Resources
-1. “https://docs.python.org/3/tutorial/index.html,” [Online]. 
-2. “https://www.kaggle.com/learn/python,” [Online]. 
+1. “https://docs.python.org/3/tutorial/index.html”
+2. “https://www.kaggle.com/learn/python”
