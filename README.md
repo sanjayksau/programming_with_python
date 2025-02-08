@@ -20,4 +20,4 @@ A. Text Books
 
 B. Web Resources
 1. “https://docs.python.org/3/tutorial/index.html,” [Online]. 
-2. Morris, “https://www.kaggle.com/learn/python,” [Online]. 
+2. “https://www.kaggle.com/learn/python,” [Online]. 
