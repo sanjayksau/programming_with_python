@@ -9,7 +9,7 @@ Python notes/handouts for Lectures taken at South Asian University, Winter Sem, 
 6. LecNotes 06- 31012025.pdf
 7. LecNotes 07- 03-04-022025.pdf
 8. LecNotes 08- 07022025.pdf
-9. lecNotes 09- 10-11-022025.pdf
+9. LecNotes 09- 10-11-022025.pdf
 (More to follow)
 
 References:
