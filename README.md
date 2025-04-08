@@ -17,6 +17,7 @@ Python notes/handouts for Lectures taken at South Asian University, Winter Sem, 
 14. QUIZ01_PWP_28022025.pdf
 15. LecNotes 14- 03-04-032025.pdf
 16. LecNotes - 01042025.pdf
+17. LecNotes - 04042025.pdf
 (More to follow)
 
 References:
